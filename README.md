@@ -116,4 +116,4 @@ La API estará disponible en:
 📍 Luján, Buenos Aires  
 🔗 [GitHub](https://github.com/Fedesin) · [LinkedIn](https://linkedin.com/in/FedeSimone31)  
 
-> Proyecto de práctica profesional para consolidar experiencia como **Desarrollador Backend & Linux Sysadmin**.
+> Proyecto de práctica profesional para consolidar experiencia como **Desarrollador Backend**.
